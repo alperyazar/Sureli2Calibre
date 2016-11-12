@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Project and repository related
+Sureli2Calibre.ini
