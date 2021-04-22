@@ -1,5 +1,5 @@
 # Sureli2Calibre
-This is a small Python 2 script to add periodicals (magazines) to an existing [Calibre](https://calibre-ebook.com/) library automatically. **Sureli** (actually Süreli with Turkish letters) means periodical in Turkish.
+This is a small Python 2 script to add periodicals (magazines) to an existing [Calibre](https://calibre-ebook.com/) library automatically. **Sureli** (actually SÃ¼reli with Turkish letters) means periodical in Turkish.
 
 I am trying to follow and read some e-magazines related with electronics mostly (over 30 at this moment). I am using Calibre to categorize e-magazines. Calibre is a great software. After I download a magazine (most of the time it is a PDF file), I add it to Calibre library and rename it according to my own convention. Then I wrote this script to automatate this process.
 
@@ -151,10 +151,10 @@ Now let's run our script again. If you select LTJournal `[5]` again, you will se
 You can expand magazines by creating corresponding `.ini` files. If you are having difficulties with regular expressions, you can use this excellent site to test your expressions: https://regex101.com/
 
 # Questions or problems?
-Please send me a message over http://www.alperyazar.com/contact or use ISSUES link given in the project page http://www.alperyazar.com/r/sureli2calibreISSUES
+Please send me a message over https://www.ayazar.com/contact/ or create issue on https://github.com/alperyazar/Sureli2Calibre/issues
 
 # Improvements?
-That's great! The code is in bad condition actually. It works but... yeah. Just fork on Github: http://www.alperyazar.com/r/sureli2calibreGIT
+That's great! The code is in bad condition actually. It works but... yeah. Just fork on Github: https://github.com/alperyazar/Sureli2Calibre
 
 *C:16396*
 *M:16456*
